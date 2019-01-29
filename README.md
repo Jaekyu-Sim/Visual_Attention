@@ -6,20 +6,23 @@ When we see a scene, we do not see all of the scene. We just see what we interes
 And, We can do many things by these attention(could reduce error, could save image process time because we don't have to see every of the scene).
 
 For example..
-when we see such a picture
-![input_img]
+when we see such a picture.
+
+![input_img](/images/1/input_img.png)
 
 
 
 We don't see all of the picture. we just have attention what we interesting.
 For these reasons, I read paper <Visual Attention driven by Convolutional Features>, and made network for visual attention.
 The output is here.
-![network_output]
+  
+![network_output](/images/1/network_output.png)
   
   
 
-And, We can use this output for attention like this.(channel-wise convolution or element-wise convolution)
-![channel_wise_convolution]
+And, We can use this output for attention like this.(channel-wise convolution or element-wise convolution).
+
+![channel_wise_convolution](/images/1/channel_wise_convolution.png)
 
 
 
