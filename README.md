@@ -11,8 +11,8 @@ when we see such a picture.
 ![input_img1](/images/1/input_img.png)
 ![input_img2](/images/2/input_img.png)
 ![input_img3](/images/3/input_img.png)
-![input_img4](/images/4/input_img.png)
-![input_img5](/images/5/input_img.png)
+![input_img4](/images/4/img_input.png)
+![input_img5](/images/5/img_input.png)
 
 
 We don't see all of the picture. we just have attention what we interesting.
